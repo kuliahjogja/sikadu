@@ -40,7 +40,7 @@ External
  - Copy dan ekstrak file pada directory apache anda
  - jalankan service apache dan mysql anda
  - Import file sia.sql database yang terletak pada folder [db](https://github.com/kuliahjogja/sikadu/tree/branches/db)
- - Konfigurasi koneksi database anda pada file [application/config/database.php](https://github.com/kuliahjogja/sikadu/blob/branches/application/config/database.php)
+ - Konfigurasi koneksi database anda pada file [application/config/database.php](https://github.com/kuliahjogja/sikadu/blob/branches/aplikasi/config/database.php)
  - coba jalankan dari browser untuk menguji sistem berjalan normal
  
 ### Team Developer
